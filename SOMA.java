@@ -1,6 +1,8 @@
+//1. Crie um algoritmo que calcule a soma e a média de 3 números informados pelo usuário.
+
 import java.util.Scanner;
 
-public class TESTE {
+public class SOMA {
     public static void main(String[] args) {
 int a, b,c,d;
         Scanner dados = new Scanner(System.in);
