@@ -1,3 +1,6 @@
+//3. Implemente um algoritmo que receba 3 números reais de entrada. Calcule e mostre o resultado da
+//multiplicação dos dois primeiros números dividido pelo terceiro número fornecido pelo usuário. Sabe-se
+//que o denominador não pode ser zero, mas neste momento não se preocupe com as validações
 import java.util.Scanner;
 
 public class Tnum {
