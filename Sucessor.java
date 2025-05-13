@@ -1,3 +1,5 @@
+//2. Ler um número inteiro e imprimir o seu sucessor e seu antecessor.
+
 import java.util.Scanner;
 
 public class Sucessor {
